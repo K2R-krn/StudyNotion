@@ -85,3 +85,7 @@ Overall, these enhancements would significantly improve the StudyNotion platform
 its offerings to students, instructors, and administrators. The implementation timeline and
 priority would depend on various factors such as the resources available and the specific
 needs and goals of the platform.
+
+.........
+
+FOR MORE INFORMATION REFER StudyNotion Project Description File avaliable on Github.
