@@ -20,7 +20,8 @@ const PORT = process.env.PORT || 4000;
 dotenv.config();
 
 // Connecting to database
-database.connect();
+// Comment for mongo db connection
+// database.connect();
  
 // Middlewares
 app.use(express.json());
